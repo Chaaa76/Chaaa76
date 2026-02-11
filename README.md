@@ -5,7 +5,7 @@
 
 - 👨‍💻 I'm currently Working on **a project that tracks my fitness and gym goals such as PRs and Reps**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
